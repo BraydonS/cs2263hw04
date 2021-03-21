@@ -1,0 +1,52 @@
+{
+  "isDirected": false,
+  "allowsParallelEdges": false,
+  "allowsSelfLoops": false,
+  "nodeOrder": {
+    "type": "INSERTION"
+  },
+  "edgeOrder": {
+    "type": "INSERTION"
+  },
+  "nodeConnections": {
+    "backingMap": {
+      "cs2263hw04.Person@5b6f7412": {},
+      "cs2263hw04.Person@2dda6444": {},
+      "cs2263hw04.Person@2e817b38": {},
+      "cs2263hw04.Person@433c675d": {},
+      "cs2263hw04.Person@1a6c5a9e": {}
+    }
+  },
+  "edgeToReferenceNode": {
+    "backingMap": {
+      "cs2263hw04.Relationship@52cc8049": {
+        "name": "Dale",
+        "age": 30
+      },
+      "cs2263hw04.Relationship@49097b5d": {
+        "name": "Dale",
+        "age": 30
+      },
+      "cs2263hw04.Relationship@c4437c4": {
+        "name": "Jenna",
+        "age": 26
+      },
+      "cs2263hw04.Relationship@3f91beef": {
+        "name": "Jenna",
+        "age": 26
+      },
+      "cs2263hw04.Relationship@37bba400": {
+        "name": "Bob",
+        "age": 22
+      },
+      "cs2263hw04.Relationship@179d3b25": {
+        "name": "Kate",
+        "age": 30
+      },
+      "cs2263hw04.Relationship@254989ff": {
+        "name": "Bob",
+        "age": 22
+      }
+    }
+  }
+}
